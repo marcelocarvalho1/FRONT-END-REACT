@@ -8,4 +8,4 @@ Este projeto é um frontend desenvolvido em React, focado em criar uma interface
 - 🌐 **Express** (`express: ^4.21.2`): Framework web minimalista para Node.js.
 - 🔗 Axios (axios: ^1.8.3): Biblioteca para realizar requisições HTTP ao backend.
 
-- Link da api: https://github.com/marcelocarvalho1/API_NODE_JWT
+- Link do Back-end: https://github.com/marcelocarvalho1/API_NODE_JWT
