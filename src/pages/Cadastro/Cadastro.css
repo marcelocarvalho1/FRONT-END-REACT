@@ -12,9 +12,16 @@
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   }
   
-  .title {
-    font-size: 24px;
-    margin-bottom: 20px;
+  .title2 {
+    font-size: 1.9rem;
+  font-weight: 700;
+  background: linear-gradient(45deg, #3cd40e, #7d7bfe);
+  -webkit-background-clip: text;
+  color: transparent;
+  text-align: center;
+  margin: 0;
+  text-transform: uppercase;
+    -webkit-background-clip: text;
   }
   
   .form {

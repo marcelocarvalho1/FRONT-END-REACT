@@ -27,7 +27,7 @@ const Cadastro = () => {
 
   return (
     <div className="container">
-      <h2 className="title">Cadastro</h2>
+      <h2 className="title2">Cadastro</h2>
       <form className="form" onSubmit={handleSubmit}>
         <input ref={nameRef} className="input" type="text" placeholder="Nome" />
         <input
