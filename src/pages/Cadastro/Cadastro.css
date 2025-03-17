@@ -21,7 +21,6 @@
   text-align: center;
   margin: 0;
   text-transform: uppercase;
-    -webkit-background-clip: text;
   }
   
   .form {
@@ -63,9 +62,8 @@
     margin-top: 10px;
     color: linear-gradient(45deg, #3cd40e, #7d7bfe);
     text-decoration: none;
-  }
-  
-  .link:hover {
-    text-decoration: underline;
+    text-align: center;
+    display: flex; 
+    justify-content: center; 
   }
   
